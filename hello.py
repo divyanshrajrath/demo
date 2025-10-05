@@ -1,0 +1,7 @@
+print("Hello world!")
+print("Hello Pasta!")
+print("Hello Pizza!")
+print("Hello Sushi!")
+print("Hello Tacos!")
+print("Hello Ice Cream!")
+print("Hello Chocolate!")
